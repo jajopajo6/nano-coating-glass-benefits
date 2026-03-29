@@ -14,6 +14,7 @@ Nano coating for glass creates a hydrophobic layer that repels water, dirt and s
 - Glass railings
 
 👉 https://www.nanoslovakia.sk
-## Related articles
+## Related nano coating articles
 
-- https://jajopajo6.github.io/nano-coating-glass-benefits/
+- [Nano surface protection guide](https://jajopajo6.github.io/nano-surface-protection-guide/)
+- [Nano Slovakia coatings](https://github.com/jajopajo6/nano-slovakia)
